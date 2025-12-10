@@ -280,7 +280,7 @@ export default function Landing() {
               <span className="font-semibold">SnippetVault</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 SnippetVault.
+              © 2025 SnippetVault.
             </p>
           </div>
         </footer>
